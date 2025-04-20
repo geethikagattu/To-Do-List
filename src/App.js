@@ -4,7 +4,7 @@ import { ToDoBox } from './components/ToDoBox';
 function App() {
   return (
     <div className="App">
-      <ToDoBox />
+      <ToDoBox />{/*Calling the main component*/}
     </div>
   );
 }
