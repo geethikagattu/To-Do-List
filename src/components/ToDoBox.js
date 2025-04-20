@@ -29,7 +29,7 @@ export const ToDoBox = () => {
       todos.map((todo) =>
         todo.id === id
           ? {
-              todo,
+              ...todo,
               completed: !todo.completed,
             }
           : todo
