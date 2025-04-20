@@ -21,7 +21,19 @@ A simple and interactive To-Do list application built with **React.js**. It allo
 
 ## 📁 Project Structure
 
-src/ ├── components/ │ ├── ToDoBox.js # Main component handling logic and state │ ├── Todoform.js # Input form for adding tasks │ ├── ToDo.js # Displays each individual task │ └── Edittodo.js # Edit task form ├── App.js ├── index.js └── styles.css # All styling here
+src/ 
+ ├── components/ 
+     │ 
+     ├── ToDoBox.js # Main component handling logic and state 
+     │ 
+     ├── Todoform.js # Input form for adding tasks 
+     │
+     ├── ToDo.js # Displays each individual task 
+     │ 
+     └── Edittodo.js # Edit task form 
+ ├── App.js 
+ ├── index.js 
+ └── App.css # All styling here
 
 
 ## 🧠 How It Works
